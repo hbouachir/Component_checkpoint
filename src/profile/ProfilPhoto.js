@@ -1,7 +1,7 @@
 import React from "react";
-
+import image  from "./hamza.png"
 const ProfilPhoto = () => {
-    return (<img/>)
+    return (<img src={image} alt='Hamza'/>)
 }
 
 
